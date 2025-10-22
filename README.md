@@ -25,10 +25,15 @@ Below is the network diagram showing the connection between the HR and Sales dep
 - **Static routing** between routers for inter-department communication.  
 - **Manual IP addressing** for all devices.  
 - **Basic switch setup** to connect PCs and servers.  
-- **Connectivity verified** using ping tests between all devices.  
+- **Connectivity verified** using ping tests between all devices.
+
+---
+## 🖼️ Ping and Testing
+Below is the network ping and tesing:
+
+![Network Ping](./Small_Office_Network_Project/Ping.png)
 
 ---
 ## 👨‍💻 Author
-**Abderrahmane Makhlouf**  
-IT Student | Networking & Cybersecurity Enthusiast  
+**Abderrahmane Makhlouf**   
 📧 Contact: [Contact@abderrahmanemakhlouf.com]
