@@ -1,4 +1,4 @@
-# 🏢 Small Office Network Project
+# 🏢 Small Office Network 
 
 ## 📘 Overview
 This project represents a **Small Office Network** designed in **Cisco Packet Tracer** to connect two departments:  
